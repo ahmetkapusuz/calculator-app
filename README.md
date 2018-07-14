@@ -1,6 +1,6 @@
 ## Simple Calculator App
 This application is a React application which is a simple calculator.
-Related blog post can be read from [here]() 
+Related blog post can be read from [here](https://medium.com/@ahmetkapusuz/testing-react-application-with-cypress-fce9e159fec) 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
